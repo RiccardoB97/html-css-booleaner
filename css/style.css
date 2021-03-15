@@ -1,15 +1,33 @@
 *{
  box-sizing: border-box;
- margin: 0;
- padding:0;
 }
 header{
     height: 150px;
     background-color: dodgerblue;
     background-image: url('../img/pattern.png');
+    margin: -10px;
+    padding:0px;
 }
 .logo{
     width: 250px;
     margin-top: 75px;
     margin-left: 10px;
+}
+h1{
+    font-size: 3em;
+    margin-left: 5px;
+    margin-bottom: 0;
+}
+.grigio{
+    color:gray;
+    margin-top: -10;
+}
+.blu-p{
+    color:dodgerblue;
+}
+p{
+    margin: auto;
+}
+.description{
+    font-size: 10px;
 }
