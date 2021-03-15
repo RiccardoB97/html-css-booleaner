@@ -34,3 +34,18 @@ p{
 .paragrafo-lista{
     margin-top: 15px;
 }
+thead{
+    background-color: dodgerblue;
+    color:white;
+}
+table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+th, td{
+    text-align: left;
+    width: 200px;
+}
+.light-blue-background{
+    background-color: lightblue;
+}
