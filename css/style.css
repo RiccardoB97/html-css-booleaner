@@ -17,7 +17,7 @@ h1{
     font-size: 3em;
     margin-bottom: 0;
 }
-.grigio{
+.grigio, h4{
     color:gray;
     margin-top: -10;
 }
@@ -47,4 +47,18 @@ th, td{
 }
 .light-blue-background{
     background-color: lightblue;
+}
+.top {
+    background-image: url(../img/monitor.jpg);
+    margin-bottom: 10px;
+
+}
+.bottom {
+    background-image: url(../img/graph.jpg);
+}
+.pic{
+    width: 300px;
+    height: 200px;
+    color: white;
+    font-size: 30px;
 }
